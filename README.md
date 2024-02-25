@@ -1,4 +1,4 @@
-# efhw_coupler
+# EFHW_Coupler
 Endfed Halfwave coupler with bluetooth control
 
 This project follows the work already done by M0UKD
